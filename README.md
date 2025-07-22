@@ -68,5 +68,5 @@ This project aims to:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/nike-stock-predictor.git
-   cd nike-stock-predictor
+   git clone https://github.com/swordboy02/stock-prediction.git
+   cd stock-prediction
